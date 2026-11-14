@@ -1,21 +1,22 @@
 # Playwright Login Tests
 
-This project is part of my QA Automation learning journey.
+A small project where I explore how login flows work, test different scenarios and look for edge cases.
 
-A simple Playwright automation project created to learn UI test automation with Playwright, TypeScript and the Page Object Model (POM).
+I'm using Playwright and TypeScript to practice UI test automation, understand application behavior and see what happens when things don't go as expected.
 
-## Technologies
+### What I'm exploring
 
-- Playwright
-- TypeScript
-- Node.js
+- Successful login flows
+- Invalid credentials
+- Empty form fields
+- Login validation and error messages
+- Edge cases in login behavior
 
-## Running the project
+### Tech Stack
 
-```bash
-npm install
-npx playwright test
-```
+Playwright · TypeScript
+
+*testing and breaking things (on purpose).* 💜
 
 ## Notes
 
